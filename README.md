@@ -4,9 +4,7 @@
 
 All our dignity consists, then, in thought. This is the basis on which we must raise ourselves, and not space and time, which we would not know how to fill. Let us make it our task, then, to think well: here is the principle of morality.”
 
-— __Blaise Pascal, _Thoughts___
-
-:beginner:
+:beginner: __Blaise Pascal, _Thoughts___
 
 “Instead of applying observation to the things we wished to know, we have chosen rather to imagine them. Advancing from one ill founded supposition to another, we have at last bewildered ourselves amidst a multitude of errors. These errors becoming prejudices, are, of course, adopted as principles, and we thus bewilder ourselves more and more. The method, too, by which we conduct our reasonings is as absurd; we abuse words which we do not understand, and call this the art of reasoning. When matters have been brought this length, when errors have been thus accumulated, there is but one remedy by which order can be restored to the faculty of thinking; this is, to forget all that we have learned, to trace back our ideas to their source, to follow the train in which they rise, and, as my Lord Bacon says, to frame the human understanding anew.
 
@@ -14,9 +12,7 @@ This remedy becomes the more difficult in proportion as we think ourselves more 
 
 …But, after all, the sciences have made progress, because philosophers have applied themselves with more attention to observe, and have communicated to their language that precision and accuracy which they have employed in their observations: In correcting their language they reason better.”
 
-— __Étienne Bonnot de Condillac (transcribed in the Preface to [Antoine Lavoisier](https://en.wikipedia.org/wiki/Antoine_Lavoisier)’s [Elements](https://archive.org/details/elementschemist00kerrgoog) (1799)__
-
-:beginner:
+:beginner: __Étienne Bonnot de Condillac (transcribed in the Preface to [Antoine Lavoisier](https://en.wikipedia.org/wiki/Antoine_Lavoisier)’s [Elements](https://archive.org/details/elementschemist00kerrgoog) (1799)__
 
 “This generation inclines a little to congratulate itself on being the last of an illustrious line;
 and in Boston and London and Paris and Rome, thinking of its long descent, it speaks of its progress in art and science and literature with satisfaction. There are the Records of the Philosophical Societies, and the public Eulogies of Great Men! It is the good Adam contemplating his own virtue. "Yes, we have done great deeds, and sung divine songs, which shall never die" — that is, as long as we can remember them. The learned societies and great men of Assyria — where are they? What youthful philosophers and experimentalists we are! There is not one of my readers who has yet lived a whole human life. These may be but the spring months in the life of the race. If we have had the seven-years' itch, we have not seen the seventeen-year locust yet in Concord. We are acquainted with a mere pellicle of the globe on which we live. Most have not delved six feet beneath the surface, nor leaped as many above it. We know not where we are. Beside, we are sound asleep nearly half our time. Yet we esteem ourselves wise, and have an established order on the surface. Truly, we are deep thinkers, we are ambitious spirits!
@@ -29,10 +25,8 @@ We think that we can change our clothes only.
 
 I  do not say that John or Jonathan will realize all this; but such is the character of that morrow which mere lapse of time can never make to dawn. The light which puts out our eyes is darkness to us. Only that day dawns to which we are awake. There is more day to dawn. The sun is but a morning star.”
 
-— __Conclusion of _Walden_ by Henry David Thoreau (via [biochemistri.es](biochemistri.es/Walden))__
-
-:beginner:
+:beginner: __Conclusion of _Walden_ by Henry David Thoreau (via [biochemistri.es](biochemistri.es/Walden))__
 
 “No man can cross the same river twice.”
 
-— __Heraclitus (via [Rich Hickey](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/AreWeThereYet.md#user-content-slide-19))__
+:beginner: __Heraclitus (via [Rich Hickey](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/AreWeThereYet.md#user-content-slide-19))__
