@@ -1,6 +1,6 @@
-# reedme
+## “The human being is only a reed,
 
-“The human being is only a reed, the most feeble in nature; but this is a thinking reed. It isn't necessary for the entire universe to arm itself in order to crush him; a whiff of vapor, a taste of water, suffices to kill him. But when the universe crushes him, the human being becomes still more noble than that which kills him, because he knows that he is dying, and the advantage that the universe has over him. The universe, it does not have a clue.
+the most feeble in nature; but this is a thinking reed. It isn't necessary for the entire universe to arm itself in order to crush him; a whiff of vapor, a taste of water, suffices to kill him. But when the universe crushes him, the human being becomes still more noble than that which kills him, because he knows that he is dying, and the advantage that the universe has over him. The universe, it does not have a clue.
 
 All our dignity consists, then, in thought. This is the basis on which we must raise ourselves, and not space and time, which we would not know how to fill. Let us make it our task, then, to think well: here is the principle of morality.”
 
