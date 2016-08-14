@@ -32,3 +32,28 @@ I  do not say that John or Jonathan will realize all this; but such is the chara
 “No man can cross the same river twice.”
 
 :beginner: __Heraclitus (via [Rich Hickey](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/AreWeThereYet.md#user-content-slide-19))__
+
+Hinc via Tartarei quae fert Acherontis ad undas.               
+turbidus hic caeno vastaque voragine gurges  
+aestuat atque omnem Cocyto eructat harenam.  
+portitor has horrendus aquas et flumina servat  
+terribili squalore Charon, cui plurima mento  
+canities inculta iacet, stant lumina flamma,               
+sordidus ex umeris nodo dependet amictus. 
+ipse ratem conto subigit velisque ministrat  
+et ferruginea subvectat corpora cumba,  
+iam senior, sed cruda deo viridisque senectus.  
+huc omnis turba ad ripas effusa ruebat,                
+matres atque viri defunctaque corpora vita  
+magnanimum heroum, pueri innuptaeque puellae,  
+impositique rogis iuvenes ante ora parentum:  
+quam multa in silvis autumni frigore primo  
+lapsa cadunt folia, aut ad terram gurgite ab alto                
+quam multae glomerantur aves, ubi frigidus annus  
+trans pontum fugat et terris immittit apricis.  
+stabant orantes primi transmittere cursum  
+tendebantque manus ripae ulterioris amore.  
+navita sed tristis nunc hos nunc accipit illos,               
+ast alios longe summotos arcet harena.  
+
+:beginner: __Virgil’s _Aeneid___
