@@ -56,4 +56,4 @@ tendebantque manus ripae ulterioris amore.
 navita sed tristis nunc hos nunc accipit illos,               
 ast alios longe summotos arcet harena.  
 
-:beginner: __Virgil, _Aeneid (liber sextvs)___
+:beginner: __Virgil, _Aeneid_ (liber sextvs)__
